@@ -1,9 +1,4 @@
-# Disable all post-processing (including HTML minification)
-[build.processing]
-  skip_processing = true  # This prevents Netlify from modifying your HTML
-
-# Ensure crawling is allowed
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Robots-Tag = "all"
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
