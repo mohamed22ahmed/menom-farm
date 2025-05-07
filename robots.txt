@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://menom-farm.netlify.app/sitemap.xml
+Sitemap: https://al-qtaibi-feed-establishment.netlify.app/sitemap.xml
