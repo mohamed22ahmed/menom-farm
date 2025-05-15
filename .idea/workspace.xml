@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb30e710-8c64-4f3e-895f-65dca7e9005d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-    </list>
+    <list default="true" id="bb30e710-8c64-4f3e-895f-65dca7e9005d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +77,7 @@
       <workItem from="1746448525597" duration="850000" />
       <workItem from="1746569416880" duration="13005000" />
       <workItem from="1746625735406" duration="1496000" />
-      <workItem from="1746658993643" duration="1809000" />
+      <workItem from="1746658993643" duration="2301000" />
     </task>
     <servers />
   </component>
